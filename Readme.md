@@ -1,1 +1,0 @@
-Esse é um projeto clone da Netflix, onde coloquei as 4 temporadas e todos os capitulos da série Cobra Kai.

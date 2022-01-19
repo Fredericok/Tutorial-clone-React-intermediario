@@ -1,5 +1,33 @@
 {
   "dependencies": {
-    "npm-git-install": "^0.3.0"
-  }
+    "npm-git-install": "^0.3.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack-dev-server": "^4.7.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "name": "projetos",
+  "description": "\"Clone do repositorio introduction-reactjs do tautorn\\Dio.\"",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredericok/Tutorial-clone-introduction_reactJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fredericok/Tutorial-clone-introduction_reactJS/issues"
+  },
+  "homepage": "https://github.com/Fredericok/Tutorial-clone-introduction_reactJS#readme"
 }
